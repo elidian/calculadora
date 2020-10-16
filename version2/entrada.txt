@@ -1,0 +1,13 @@
+inicio
+
+    let a = 2.5 + (-7.5)
+    let b = 2
+    let c = a + b
+    tela c
+    tela c / a
+    tela c / b
+    tela b * 3
+    tela c - a
+
+fim
+
